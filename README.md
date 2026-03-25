@@ -1,1 +1,2 @@
-# NTPTUDM_NguyenHuyDat_lab7
+# Nguyễn Huy Đạt
+#MSSV:2280618448
